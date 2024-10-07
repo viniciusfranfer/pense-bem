@@ -1,0 +1,273 @@
+[
+    {
+        "questao": "91",
+        "opcoes": [
+            {"text": "Windglider", "isCorrect": true},
+            {"text": "Wingprancha", "isCorrect": false},
+            {"text": "Windows", "isCorrect": false},
+            {"text": "Windboard", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "92",
+        "opcoes": [
+            {"text": "Pinguim", "isCorrect": false},
+            {"text": "Finn", "isCorrect": true},
+            {"text": "Sozin", "isCorrect": false},
+            {"text": "Finin", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "93",
+        "opcoes": [
+            {"text": "477", "isCorrect": false},
+            {"text": "747", "isCorrect": true},
+            {"text": "047", "isCorrect": false},
+            {"text": "470", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "94",
+        "opcoes": [
+            {"text": "Flutuar Dourado", "isCorrect": true},
+            {"text": "Holandês Voador", "isCorrect": false},
+            {"text": "Flying Dutchman", "isCorrect": false},
+            {"text": "Fluir Doce", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "95",
+        "opcoes": [
+            {"text": "Tornado", "isCorrect": true},
+            {"text": "Furacão", "isCorrect": false},
+            {"text": "Vendaval", "isCorrect": false},
+            {"text": "Tritão", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "96",
+        "opcoes": [
+            {"text": "Star", "isCorrect": true},
+            {"text": "Comet", "isCorrect": false},
+            {"text": "Estela", "isCorrect": false},
+            {"text": "Halley", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "97",
+        "opcoes": [
+            {"text": "Surpresa", "isCorrect": false},
+            {"text": "Olimpic", "isCorrect": true},
+            {"text": "Saveiro", "isCorrect": false},
+            {"text": "Soling", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "98",
+        "opcoes": [
+            {"text": "8,90 metros", "isCorrect": true},
+            {"text": "9,99 metros", "isCorrect": false},
+            {"text": "10,10 metros", "isCorrect": false},
+            {"text": "6,66 metros", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "99",
+        "opcoes": [
+            {"text": "luta livre", "isCorrect": false},
+            {"text": "esgrima", "isCorrect": true},
+            {"text": "canoagem", "isCorrect": false},
+            {"text": "natação", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "100",
+        "opcoes": [
+            {"text": "Jogos Calmos", "isCorrect": false},
+            {"text": "Jogos Felizes", "isCorrect": false},
+            {"text": "Belos Jogos", "isCorrect": false},
+            {"text": "Jogos Pacíficos", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "101",
+        "opcoes": [
+            {"text": "União Soviética", "isCorrect": true},
+            {"text": "Itália", "isCorrect": false},
+            {"text": "Iugoslávia", "isCorrect": false},
+            {"text": "China", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "102",
+        "opcoes": [
+            {"text": "Mercedes Díaz", "isCorrect": false},
+            {"text": "Julia Paz", "isCorrect": false},
+            {"text": "Maria Sosa", "isCorrect": false},
+            {"text": "Enriqueta Basilio", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "103",
+        "opcoes": [
+            {"text": "500 metros", "isCorrect": false},
+            {"text": "100 metros", "isCorrect": true},
+            {"text": "250 metros", "isCorrect": false},
+            {"text": "800 metros", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "104",
+        "opcoes": [
+            {"text": "desejaram", "isCorrect": false},
+            {"text": "recusaram", "isCorrect": true},
+            {"text": "detestaram", "isCorrect": false},
+            {"text": "ousaram", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "105",
+        "opcoes": [
+            {"text": "111 medalhas", "isCorrect": false},
+            {"text": "201 medalhas", "isCorrect": false},
+            {"text": "609 medalhas", "isCorrect": false},
+            {"text": "320 medalhas", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "106",
+        "opcoes": [
+            {"text": "100 atletas", "isCorrect": true},
+            {"text": "75 satélites", "isCorrect": false},
+            {"text": "15 países", "isCorrect": true},
+            {"text": "50 dirigentes", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "107",
+        "opcoes": [
+            {"text": "Carl Johnson", "isCorrect": false},
+            {"text": "Joe Ben", "isCorrect": false},
+            {"text": "Carl Lewis", "isCorrect": true},
+            {"text": "Sugar Lewis", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "108",
+        "opcoes": [
+            {"text": "100 repúblicas", "isCorrect": false},
+            {"text": "90 emirados", "isCorrect": false},
+            {"text": "80 territórios", "isCorrect": false},
+            {"text": "160 países", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "109",
+        "opcoes": [
+            {"text": "anticorpos", "isCorrect": false},
+            {"text": "antidrops", "isCorrect": false},
+            {"text": "antiinfeccioso", "isCorrect": false},
+            {"text": "antidoping", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "110",
+        "opcoes": [
+            {"text": "profissionais", "isCorrect": true},
+            {"text": "antigos", "isCorrect": false},
+            {"text": "juvenis", "isCorrect": false},
+            {"text": "decadentes", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "111",
+        "opcoes": [
+            {"text": "Tênis", "isCorrect": true},
+            {"text": "Rúgbi", "isCorrect": false},
+            {"text": "Criquete", "isCorrect": false},
+            {"text": "Squash", "isCorrect": false}
+            
+        ]
+    },
+    {
+        "questao": "112",
+        "opcoes": [
+            {"text": "Xadrez", "isCorrect": false},
+            {"text": "Boliche", "isCorrect": false},
+            {"text": "Halterofilismo", "isCorrect": true},
+            {"text": "Esgrima", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "113",
+        "opcoes": [
+            {"text": "Heptatlo", "isCorrect": false},
+            {"text": "Decatlo", "isCorrect": false},
+            {"text": "Triatlo", "isCorrect": false},
+            {"text": "Pentatlo", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "114",
+        "opcoes": [
+            {"text": "Pingue-pongue", "isCorrect": false},
+            {"text": "Tênis de mesa", "isCorrect": true},
+            {"text": "Frescobol", "isCorrect": false},
+            {"text": "Paddle", "isCorrect": false}      
+        ]
+    },
+    {
+        "questao": "115",
+        "opcoes": [
+            {"text": "Jóquei", "isCorrect": false},
+            {"text": "Hóquei", "isCorrect": true},
+            {"text": "Sóquei", "isCorrect": false},
+            {"text": "Xóquei", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "116",
+        "opcoes": [
+            {"text": "vagões", "isCorrect": false},
+            {"text": "pranchas", "isCorrect": false},
+            {"text": "poltronas", "isCorrect": false},
+            {"text": "trenós", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "117",
+        "opcoes": [
+            {"text": "patinação circense", "isCorrect": false},
+            {"text": "patinação em revista", "isCorrect": false},
+            {"text": "patinação carnavalesca", "isCorrect": false},
+            {"text": "patinação artística", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "118",
+        "opcoes": [
+            {"text": "muros", "isCorrect": false},
+            {"text": "balizas", "isCorrect": true},
+            {"text": "postes", "isCorrect": false},
+            {"text": "árvores", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "119",
+        "opcoes": [
+            {"text": "4 tempos de 15 minutos", "isCorrect": false},
+            {"text": "3 tempos de 20 minutos", "isCorrect": true},
+            {"text": "2 tempos de 30 minutos", "isCorrect": false},
+            {"text": "6 tempos de 10 minutos", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "120",
+        "opcoes": [
+            {"text": "canhão", "isCorrect": false},
+            {"text": "estilingue", "isCorrect": false},
+            {"text": "rojão", "isCorrect": false},
+            {"text": "carabina", "isCorrect": true}
+        ]
+    }    
+]

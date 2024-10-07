@@ -1,0 +1,274 @@
+[
+    {
+        "questao": "121",
+        "opcoes": [
+            {"text": "D", "isCorrect": false},
+            {"text": "C", "isCorrect": false},
+            {"text": "B", "isCorrect": false},
+            {"text": "A", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "122",
+        "opcoes": [
+            {"text": "F", "isCorrect": true},
+            {"text": "C", "isCorrect": false},
+            {"text": "E", "isCorrect": false},
+            {"text": "D", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "123",
+        "opcoes": [
+            {"text": "C", "isCorrect": false},
+            {"text": "A", "isCorrect": false},
+            {"text": "B", "isCorrect": false},
+            {"text": "E", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "124",
+        "opcoes": [
+            {"text": "F", "isCorrect": false},
+            {"text": "E", "isCorrect": false},
+            {"text": "A", "isCorrect": false},
+            {"text": "B", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "125",
+        "opcoes": [
+            {"text": "E", "isCorrect": true},
+            {"text": "A", "isCorrect": false},
+            {"text": "C", "isCorrect": false},
+            {"text": "F", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "126",
+        "opcoes": [
+            {"text": "A", "isCorrect": true},
+            {"text": "D", "isCorrect": false},
+            {"text": "B", "isCorrect": false},
+            {"text": "C", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "127",
+        "opcoes": [
+            {"text": "beisebol", "isCorrect": false},
+            {"text": "hipismo", "isCorrect": false},
+            {"text": "atletismo", "isCorrect": true},
+            {"text": "remo", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "128",
+        "opcoes": [
+            {"text": "salto triplo", "isCorrect": true},
+            {"text": "decatlo", "isCorrect": false},
+            {"text": "100 m rasos", "isCorrect": false},
+            {"text": "salto c/ vara", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "129",
+        "opcoes": [
+            {"text": "Emerson Fittipaldi", "isCorrect": false},
+            {"text": "Ademar Ferreira da Silva", "isCorrect": true},
+            {"text": "Edson Arantes do Nascimento", "isCorrect": false},
+            {"text": "Roberto Carlos Braga", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "130",
+        "opcoes": [
+            {"text": "boxe", "isCorrect": false},
+            {"text": "futebol", "isCorrect": false},
+            {"text": "iatismo", "isCorrect": true},
+            {"text": "vôlei", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "131",
+        "opcoes": [
+            {"text": "Tornado e Tufão", "isCorrect": false},
+            {"text": "Star e Estrela", "isCorrect": false},
+            {"text": "470 e Tornado", "isCorrect": true},
+            {"text": "Soling e Sozin", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "132",
+        "opcoes": [
+            {"text": "ciclismo", "isCorrect": false},
+            {"text": "handebol", "isCorrect": false},
+            {"text": "tênis", "isCorrect": false},
+            {"text": "judô", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "133",
+        "opcoes": [
+            {"text": "Joaquim Cruz", "isCorrect": false},
+            {"text": "Robson Caetano", "isCorrect": false},
+            {"text": "Djan Madruga", "isCorrect": false},
+            {"text": "Aurélio Miguel", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "134",
+        "opcoes": [
+            {"text": "tiro", "isCorrect": true},
+            {"text": "canoagem", "isCorrect": false},
+            {"text": "hóquei", "isCorrect": false},
+            {"text": "halterofilismo", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "135",
+        "opcoes": [
+            {"text": "revólver", "isCorrect": true},
+            {"text": "bombardeio", "isCorrect": false},
+            {"text": "camuflagem", "isCorrect": false},
+            {"text": "sobrevivência", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "136",
+        "opcoes": [
+            {"text": "esgrima", "isCorrect": true},
+            {"text": "natação", "isCorrect": false},
+            {"text": "luta", "isCorrect": false},
+            {"text": "canoagem", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "137",
+        "opcoes": [
+            {"text": "peso besouro", "isCorrect": false},
+            {"text": "peso mosca", "isCorrect": true},
+            {"text": "peso formiga", "isCorrect": false},
+            {"text": "peso gafanhoto", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "138",
+        "opcoes": [
+            {"text": "3 medalhas", "isCorrect": true},
+            {"text": "6 medalhas", "isCorrect": false},
+            {"text": "9 medalhas", "isCorrect": false},
+            {"text": "1 medalha", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "139",
+        "opcoes": [
+            {"text": "beisebol", "isCorrect": false},
+            {"text": "pentatlo", "isCorrect": false},
+            {"text": "vôlei", "isCorrect": true},
+            {"text": "arco e flecha", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "140",
+        "opcoes": [
+            {"text": "futebol", "isCorrect": true},
+            {"text": "handebol", "isCorrect": false},
+            {"text": "hóquei", "isCorrect": false},
+            {"text": "pólo aquático", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "141",
+        "opcoes": [
+            {"text": "Bill Armstrong", "isCorrect": false},
+            {"text": "Michael King", "isCorrect": false},
+            {"text": "Louis Jackson", "isCorrect": false},
+            {"text": "Abebe Bikila", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "142",
+        "opcoes": [
+            {"text": "Nelly Korbut", "isCorrect": false},
+            {"text": "Yelena Kim", "isCorrect": false},
+            {"text": "Olga Davidova", "isCorrect": false},
+            {"text": "Nadia Comaneci", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "143",
+        "opcoes": [
+            {"text": "Salvador Dali", "isCorrect": false},
+            {"text": "Julio Iglesias", "isCorrect": false},
+            {"text": "Juan Fangio", "isCorrect": false},
+            {"text": "Teofilo Stevenson", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "144",
+        "opcoes": [
+            {"text": "Peggy Madonna", "isCorrect": false},
+            {"text": "Jessica Lewis", "isCorrect": false},
+            {"text": "Wilma Rudolph", "isCorrect": true},
+            {"text": "Carla Owens", "isCorrect": false}
+            
+        ]
+    },
+    {
+        "questao": "145",
+        "opcoes": [
+            {"text": "Sam Spirit", "isCorrect": false},
+            {"text": "Joe Spinks", "isCorrect": false},
+            {"text": "Jack Sprint", "isCorrect": false},
+            {"text": "Mark Spitz", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "146",
+        "opcoes": [
+            {"text": "Claris Cream", "isCorrect": false},
+            {"text": "Sonja Reka", "isCorrect": false},
+            {"text": "Larisa Latynina", "isCorrect": true},
+            {"text": "Betty Lou", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "147",
+        "opcoes": [
+            {"text": "não é", "isCorrect": true},
+            {"text": "é só", "isCorrect": false},
+            {"text": "sempre foi", "isCorrect": false},
+            {"text": "agora é", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "148",
+        "opcoes": [
+            {"text": "discriminar", "isCorrect": false},
+            {"text": "participar", "isCorrect": true},
+            {"text": "vencer", "isCorrect": false},
+            {"text": "levar vantagem", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "149",
+        "opcoes": [
+            {"text": "triunfo", "isCorrect": true},
+            {"text": "dinheiro", "isCorrect": false},
+            {"text": "sabor", "isCorrect": false},
+            {"text": "desleixo", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "150",
+        "opcoes": [
+            {"text": "lutado", "isCorrect": true},
+            {"text": "enganado", "isCorrect": false},
+            {"text": "cozinhado", "isCorrect": false},
+            {"text": "encenado", "isCorrect": false}
+        ]
+    }
+    
+]

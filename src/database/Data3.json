@@ -1,0 +1,273 @@
+[
+    {
+        "questao": "61",
+        "opcoes": [
+            {"text": "A", "isCorrect": true},
+            {"text": "E", "isCorrect": false},
+            {"text": "D", "isCorrect": false},
+            {"text": "C", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "62",
+        "opcoes": [
+            {"text": "F", "isCorrect": false},
+            {"text": "B", "isCorrect": true},
+            {"text": "A", "isCorrect": false},
+            {"text": "D", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "63",
+        "opcoes": [
+            {"text": "B", "isCorrect": false},
+            {"text": "E", "isCorrect": false},
+            {"text": "C", "isCorrect": true},
+            {"text": "F", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "64",
+        "opcoes": [
+            {"text": "D", "isCorrect": true},
+            {"text": "C", "isCorrect": false},
+            {"text": "E", "isCorrect": false},
+            {"text": "A", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "65",
+        "opcoes": [
+            {"text": "E", "isCorrect": true},
+            {"text": "D", "isCorrect": false},
+            {"text": "C", "isCorrect": false},
+            {"text": "B", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "66",
+        "opcoes": [
+            {"text": "E", "isCorrect": false},
+            {"text": "F", "isCorrect": true},
+            {"text": "B", "isCorrect": false},
+            {"text": "C", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "67",
+        "opcoes": [
+            {"text": "100 m c/ barreiras", "isCorrect": true},
+            {"text": "120 m c/ buracos", "isCorrect": false},
+            {"text": "115 m c/ pédagio", "isCorrect": false},
+            {"text": "110 m c/ intervalos", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "68",
+        "opcoes": [
+            {"text": "102 m", "isCorrect": true},
+            {"text": "99 m", "isCorrect": false},
+            {"text": "101 m", "isCorrect": false},
+            {"text": "100 m", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "69",
+        "opcoes": [
+            {"text": "10 195 m", "isCorrect": true},
+            {"text": "10 000 m", "isCorrect": false},
+            {"text": "11 110 m", "isCorrect": false},
+            {"text": "10 400 m", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "70",
+        "opcoes": [
+            {"text": "710 m", "isCorrect": true},
+            {"text": "800 m", "isCorrect": false},
+            {"text": "890 m", "isCorrect": false},
+            {"text": "770 m", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "71",
+        "opcoes": [
+            {"text": "3 x 300 m coletivo", "isCorrect": true},
+            {"text": "4 x 400 m revezamento", "isCorrect": false},
+            {"text": "2 x 800 m individual", "isCorrect": false},
+            {"text": "3 x 600 m revezamento", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "72",
+        "opcoes": [
+            {"text": "1 350 m", "isCorrect": true},
+            {"text": "1 450 m", "isCorrect": false},
+            {"text": "1 500 m", "isCorrect": false},
+            {"text": "1 650 m", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "73",
+        "opcoes": [
+            {"text": "222 m", "isCorrect": true},
+            {"text": "300 m", "isCorrect": false},
+            {"text": "330 m", "isCorrect": false},
+            {"text": "200 m", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "74",
+        "opcoes": [
+            {"text": "salto com peso", "isCorrect": true},
+            {"text": "salto com disco", "isCorrect": false},
+            {"text": "salto com vara", "isCorrect": false},
+            {"text": "salto com martelo", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "75",
+        "opcoes": [
+            {"text": "salto sem vara", "isCorrect": true},
+            {"text": "salto duplo", "isCorrect": false},
+            {"text": "salto com dardo", "isCorrect": false},
+            {"text": "salto em distância", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "76",
+        "opcoes": [
+            {"text": "lançamento em distância", "isCorrect": false},
+            {"text": "lançamento de disco/martelo", "isCorrect": true},
+            {"text": "lançamento de fita/alicate", "isCorrect": false},
+            {"text": "lançamento com vara", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "77",
+        "opcoes": [
+            {"text": "salto triplo", "isCorrect": true},
+            {"text": "salto alto", "isCorrect": false},
+            {"text": "salto em falso", "isCorrect": false},
+            {"text": "salto sem peso", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "78",
+        "opcoes": [
+            {"text": "arremesso de pena", "isCorrect": true},
+            {"text": "arremesso em altura", "isCorrect": false},
+            {"text": "arremesso triplo", "isCorrect": false},
+            {"text": "arremesso de peso", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "79",
+        "opcoes": [
+            {"text": "lançamento de dados", "isCorrect": true},
+            {"text": "lançamento de dardo", "isCorrect": false},
+            {"text": "lançamento com vara", "isCorrect": false},
+            {"text": "lançamento de triplo", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "80",
+        "opcoes": [
+            {"text": "salto de frente", "isCorrect": true},
+            {"text": "salto em altura", "isCorrect": false},
+            {"text": "salto de costas", "isCorrect": false},
+            {"text": "salto em largura", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "81",
+        "opcoes": [
+            {"text": "C", "isCorrect": false},
+            {"text": "D", "isCorrect": false},
+            {"text": "F", "isCorrect": false},
+            {"text": "E", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "82",
+        "opcoes": [
+            {"text": "F", "isCorrect": false},
+            {"text": "E", "isCorrect": false},
+            {"text": "D", "isCorrect": true},
+            {"text": "B", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "83",
+        "opcoes": [
+            {"text": "A", "isCorrect": false},
+            {"text": "B", "isCorrect": false},
+            {"text": "C", "isCorrect": true},
+            {"text": "D", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "84",
+        "opcoes": [
+            {"text": "D", "isCorrect": false},
+            {"text": "C", "isCorrect": false},
+            {"text": "A", "isCorrect": true},
+            {"text": "F", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "85",
+        "opcoes": [
+            {"text": "E", "isCorrect": false},
+            {"text": "F", "isCorrect": true},
+            {"text": "B", "isCorrect": false},
+            {"text": "A", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "86",
+        "opcoes": [
+            {"text": "B", "isCorrect": true},
+            {"text": "A", "isCorrect": false},
+            {"text": "E", "isCorrect": false},
+            {"text": "C", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "87",
+        "opcoes": [
+            {"text": "briga", "isCorrect": false},
+            {"text": "batalha", "isCorrect": false},
+            {"text": "combate", "isCorrect": false},
+            {"text": "boxe", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "88",
+        "opcoes": [
+            {"text": "sumô", "isCorrect": false},
+            {"text": "judô", "isCorrect": true},
+            {"text": "kung-fu", "isCorrect": false},
+            {"text": "tae-kendô", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "89",
+        "opcoes": [
+            {"text": "luta", "isCorrect": true},
+            {"text": "peleja", "isCorrect": false},
+            {"text": "guerra", "isCorrect": false},
+            {"text": "pega", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "90",
+        "opcoes": [
+            {"text": "duelo", "isCorrect": true},
+            {"text": "esgrila", "isCorrect": false},
+            {"text": "dueto", "isCorrect": false},
+            {"text": "esgrima", "isCorrect": true}
+        ]
+    }
+    
+]

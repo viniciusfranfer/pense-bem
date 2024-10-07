@@ -1,0 +1,272 @@
+[
+    {
+        "questao": "31",
+        "opcoes": [
+            {"text": "cavalo selvagem", "isCorrect": false},
+            {"text": "traves móveis", "isCorrect": false},
+            {"text": "argolas assimétricas", "isCorrect": false},
+            {"text": "argolas fixas", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "32",
+        "opcoes": [
+            {"text": "cavalo simétrico", "isCorrect": false},
+            {"text": "barras paralelas", "isCorrect": false},
+            {"text": "barras pesadas", "isCorrect": false},
+            {"text": "solo fixo", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "33",
+        "opcoes": [
+            {"text": "salto sobre a barra", "isCorrect": false},
+            {"text": "cavalo chucro", "isCorrect": false},
+            {"text": "empenho crítico", "isCorrect": false},
+            {"text": "salto sobre o cavalo", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "34",
+        "opcoes": [
+            {"text": "trave de equilíbrio", "isCorrect": true},
+            {"text": "barras baixas", "isCorrect": false},
+            {"text": "equilíbrio no solo", "isCorrect": false},
+            {"text": "traves com alças", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "35",
+        "opcoes": [
+            {"text": "argolas no solo e trave", "isCorrect": false},
+            {"text": "solo e cavalo para salto", "isCorrect": true},
+            {"text": "trave paralela e solo", "isCorrect": false},
+            {"text": "cavalo assimétrico e trave alta", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "36",
+        "opcoes": [
+            {"text": "transversal", "isCorrect": true},
+            {"text": "diagonal", "isCorrect": false},
+            {"text": "alheio", "isCorrect": false},
+            {"text": "paralelo", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "37",
+        "opcoes": [
+            {"text": "8", "isCorrect": false},
+            {"text": "6", "isCorrect": true},
+            {"text": "5", "isCorrect": false},
+            {"text": "7", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "38",
+        "opcoes": [
+            {"text": "3,10/2,10", "isCorrect": false},
+            {"text": "2,10/2,31", "isCorrect": false},
+            {"text": "2,75/2,70", "isCorrect": false},
+            {"text": "2,42/2,24", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "39",
+        "opcoes": [
+            {"text": "2 pontos", "isCorrect": true},
+            {"text": "3 pontos", "isCorrect": false},
+            {"text": "1 ponto", "isCorrect": false},
+            {"text": "4 pontos", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "40",
+        "opcoes": [
+            {"text": "Alemanha", "isCorrect": false},
+            {"text": "Brasil", "isCorrect": false},
+            {"text": "Estados Unidos", "isCorrect": true},
+            {"text": "Japão", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "41",
+        "opcoes": [
+            {"text": "3,05 metros", "isCorrect": true},
+            {"text": "4,10 metros", "isCorrect": false},
+            {"text": "1,99 metro", "isCorrect": false},
+            {"text": "2,44 metros", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "42",
+        "opcoes": [
+            {"text": "quadra", "isCorrect": false},
+            {"text": "casa", "isCorrect": false},
+            {"text": "cesta", "isCorrect": true},
+            {"text": "camisa", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "43",
+        "opcoes": [
+            {"text": "5,1 metros", "isCorrect": false},
+            {"text": "3,4 metros", "isCorrect": false},
+            {"text": "6,25 metros", "isCorrect": true},
+            {"text": "2,7 metros", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "44",
+        "opcoes": [
+            {"text": "35", "isCorrect": false},
+            {"text": "23", "isCorrect": true},
+            {"text": "40", "isCorrect": false},
+            {"text": "16", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "45",
+        "opcoes": [
+            {"text": "japonesa", "isCorrect": false},
+            {"text": "artificial", "isCorrect": false},
+            {"text": "azulada", "isCorrect": false},
+            {"text": "natural", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "46",
+        "opcoes": [
+            {"text": "10", "isCorrect": false},
+            {"text": "2", "isCorrect": false},
+            {"text": "5", "isCorrect": true},
+            {"text": "7", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "47",
+        "opcoes": [
+            {"text": "goleiro", "isCorrect": true},
+            {"text": "felizardo", "isCorrect": false},
+            {"text": "espertalhão", "isCorrect": false},
+            {"text": "frangueiro", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "48",
+        "opcoes": [
+            {"text": "10x11", "isCorrect": false},
+            {"text": "14x25", "isCorrect": false},
+            {"text": "12x33", "isCorrect": false},
+            {"text": "20x40", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "49",
+        "opcoes": [
+            {"text": "orgulho", "isCorrect": false},
+            {"text": "a mão", "isCorrect": true},
+            {"text": "respeito", "isCorrect": false},
+            {"text": "a cabeça", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "50",
+        "opcoes": [
+            {"text": "1 hora", "isCorrect": false},
+            {"text": "30 minutos", "isCorrect": false},
+            {"text": "45 minutos", "isCorrect": true},
+            {"text": "15 minutos", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "51",
+        "opcoes": [
+            {"text": "Cavalgada", "isCorrect": false},
+            {"text": "Hipismo", "isCorrect": true},
+            {"text": "Peãonismo", "isCorrect": false},
+            {"text": "Montaria", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "52",
+        "opcoes": [
+            {"text": "Florete", "isCorrect": false},
+            {"text": "Chicote", "isCorrect": false},
+            {"text": "Tiro", "isCorrect": true},
+            {"text": "Bala", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "53",
+        "opcoes": [
+            {"text": "Bola de gude", "isCorrect": false},
+            {"text": "Acerte o pombo", "isCorrect": false},
+            {"text": "Bola ao cesto", "isCorrect": false},
+            {"text": "Arco e flecha", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "54",
+        "opcoes": [
+            {"text": "Barco", "isCorrect": false},
+            {"text": "Hiate", "isCorrect": false},
+            {"text": "Remo", "isCorrect": true},
+            {"text": "Vela", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "55",
+        "opcoes": [
+            {"text": "Submarino", "isCorrect": false},
+            {"text": "Jangada", "isCorrect": false},
+            {"text": "Canoagem", "isCorrect": true},
+            {"text": "Navio", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "56",
+        "opcoes": [
+            {"text": "Fórmula 1", "isCorrect": false},
+            {"text": "Skatismo", "isCorrect": false},
+            {"text": "Ciclismo", "isCorrect": true},
+            {"text": "Vôo livre", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "57",
+        "opcoes": [
+            {"text": "Golfinho", "isCorrect": false},
+            {"text": "Canguru", "isCorrect": false},
+            {"text": "Crawl", "isCorrect": true},
+            {"text": "Bumerangue", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "58",
+        "opcoes": [
+            {"text": "Costas", "isCorrect": true},
+            {"text": "Total", "isCorrect": false},
+            {"text": "Mergulho", "isCorrect": false},
+            {"text": "Frente", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "59",
+        "opcoes": [
+            {"text": "Nado de lado", "isCorrect": false},
+            {"text": "Nado pesado", "isCorrect": false},
+            {"text": "Nado de peito", "isCorrect": true},
+            {"text": "Nada de nado", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "60",
+        "opcoes": [
+            {"text": "Borboleta", "isCorrect": true},
+            {"text": "Mariposa", "isCorrect": false},
+            {"text": "Libélula", "isCorrect": false},
+            {"text": "Joaninha", "isCorrect": false}
+        ]
+    }    
+]
