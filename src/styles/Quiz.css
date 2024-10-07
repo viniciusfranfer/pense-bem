@@ -1,0 +1,39 @@
+.levels {
+  display: flex;
+  gap: 10px; 
+}
+
+.btn {
+  padding: 1em 1.4em;
+  border: none;
+  border-radius: .5em;
+  font-size: 3em;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.one {
+  background-color: #0181c8;
+
+}
+
+.two {
+  background-color: #00a652;
+}
+
+.three {
+  background-color: #fcb131;
+}
+
+.four {
+  background-color: #ee334e;
+}
+
+.five {
+  background-color: #000000;
+}
+
+.levels .btn:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}

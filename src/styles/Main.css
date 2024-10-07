@@ -1,0 +1,36 @@
+.start{
+    display: flex;
+    justify-content: center;
+}
+
+.start .btn{
+    padding: .2em 2.1em;
+    border: none;
+    border-radius: .5em;
+    font-size: 1.2em;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #fcb131;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+#form label{
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+#form .userid{
+    padding: .2em 1rem;
+    color: blue;
+    /* width: 50%; */
+    border: none;
+    border-radius: 3px;
+    font-size: 1em;
+}
