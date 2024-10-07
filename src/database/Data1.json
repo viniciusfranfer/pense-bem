@@ -1,0 +1,274 @@
+
+[
+    {
+        "questao": "1",
+        "opcoes": [
+            {"text": "22 metros", "isCorrect": false},
+            {"text": "505 metros", "isCorrect": false},
+            {"text": "340 metros", "isCorrect": false},
+            {"text": "183 metros", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "2",
+        "opcoes": [
+            {"text": "máximo", "isCorrect": false},
+            {"text": "pentatlo", "isCorrect": true},
+            {"text": "triatlo", "isCorrect": false},
+            {"text": "impacto", "isCorrect": false}
+        ]
+        
+    },
+    {
+        "questao": "3",
+        "opcoes": [
+            {"text": "ramos de oliveira", "isCorrect": true},
+            {"text": "espinhos de cacto", "isCorrect": false},
+            {"text": "cipós-cabeludos", "isCorrect": false},
+            {"text": "margaridas selvagens", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "4",
+        "opcoes": [
+            {"text": "corrida do estádio", "isCorrect": true},
+            {"text": "salto no abismo", "isCorrect": false},
+            {"text": "subida no paredão", "isCorrect": false},
+            {"text": "luta corpo-a-corpo", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "5",
+        "opcoes": [
+            {"text": "resistência", "isCorrect": false},
+            {"text": "baratona", "isCorrect": false},
+            {"text": "insistência", "isCorrect": false},
+            {"text": "maratona", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "6",
+        "opcoes": [
+            {"text": "inaugurados", "isCorrect": false},
+            {"text": "retardados", "isCorrect": false},
+            {"text": "extintos", "isCorrect": true},
+            {"text": "extraditados", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "7",
+        "opcoes": [
+            {"text": "Duque de Coubatão", "isCorrect": false},
+            {"text": "Conde de Montmaomé", "isCorrect": false},
+            {"text": "Barão de Coubertin", "isCorrect": true},
+            {"text": "Visconde de Sabugosa", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "8",
+        "opcoes": [
+            {"text": "salto duplo", "isCorrect": false},
+            {"text": "pulo ao alto", "isCorrect": false},
+            {"text": "pulo simples", "isCorrect": false},
+            {"text": "salto triplo", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "9",
+        "opcoes": [
+            {"text": "Spiridon Loues", "isCorrect": true},
+            {"text": "Aristóteles Zorba", "isCorrect": false},
+            {"text": "Sócrates Onassis", "isCorrect": false},
+            {"text": "Hipocrates Niarchos", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "10",
+        "opcoes": [
+            {"text": "tênis", "isCorrect": true},
+            {"text": "rúgbi", "isCorrect": false},
+            {"text": "judô", "isCorrect": false},
+            {"text": "halterofilismo", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "11",
+        "opcoes": [
+            {"text": "Touro Sentado", "isCorrect": false},
+            {"text": "Raoni", "isCorrect": false},
+            {"text": "Crazy Horse", "isCorrect": false},
+            {"text": "Jim Thorpe", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "12",
+        "opcoes": [
+            {"text": "Hino Belga", "isCorrect": false},
+            {"text": "Pontapé Inicial", "isCorrect": false},
+            {"text": "Juramento Olímpico", "isCorrect": true},
+            {"text": "Desafio Internacional", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "13",
+        "opcoes": [
+            {"text": "Salva de Canhão", "isCorrect": true},
+            {"text": "Revoada dos Pombos", "isCorrect": false},
+            {"text": "Toada das Andorinhas", "isCorrect": false},
+            {"text": "Salva de Palmas", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "14",
+        "opcoes": [
+            {"text": "Carlitos", "isCorrect": false},
+            {"text": "Tarzan", "isCorrect": true},
+            {"text": "Indiana Jones", "isCorrect": false},
+            {"text": "James Bond", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "15",
+        "opcoes": [
+            {"text": "frieza", "isCorrect": false},
+            {"text": "expressão", "isCorrect": false},
+            {"text": "superioridade", "isCorrect": true},
+            {"text": "elegância", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "16",
+        "opcoes": [
+            {"text": "pastores", "isCorrect": false},
+            {"text": "imigrantes", "isCorrect": false},
+            {"text": "negros", "isCorrect": true},
+            {"text": "aborígines", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "17",
+        "opcoes": [
+            {"text": "Mohammed Dali", "isCorrect": false},
+            {"text": "Ben Lewis", "isCorrect": false},
+            {"text": "Jesse James", "isCorrect": false},
+            {"text": "Jesse Owens", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "18",
+        "opcoes": [
+            {"text": "Boa Vontade", "isCorrect": false},
+            {"text": "Vitória Aliada", "isCorrect": false},
+            {"text": "Reconstrução", "isCorrect": true},
+            {"text": "Nova Era", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "19",
+        "opcoes": [
+            {"text": "Birmânia", "isCorrect": false},
+            {"text": "URSS", "isCorrect": true},
+            {"text": "Bolívia", "isCorrect": false},
+            {"text": "Tunísia", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "20",
+        "opcoes": [
+            {"text": "João XXIII", "isCorrect": true},
+            {"text": "Pio I", "isCorrect": false},
+            {"text": "Bento X", "isCorrect": false},
+            {"text": "Paulo VIII", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "21",
+        "opcoes": [
+            {"text": "planetas", "isCorrect": false},
+            {"text": "continentes", "isCorrect": true},
+            {"text": "sentidos", "isCorrect": false},
+            {"text": "caminhos", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "22",
+        "opcoes": [
+            {"text": "1896", "isCorrect": false},
+            {"text": "1900", "isCorrect": false},
+            {"text": "1916", "isCorrect": false},
+            {"text": "1920", "isCorrect": true}
+        ]
+    },
+    {
+        "questao": "23",
+        "opcoes": [
+            {"text": "nações", "isCorrect": true},
+            {"text": "vilas", "isCorrect": false},
+            {"text": "cidades", "isCorrect": false},
+            {"text": "estações", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "24",
+        "opcoes": [
+            {"text": "Tema Olímpico", "isCorrect": false},
+            {"text": "Ideal Olímpico", "isCorrect": false},
+            {"text": "Lema Olímpico", "isCorrect": true},
+            {"text": "Espírito Olímpico", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "25",
+        "opcoes": [
+            {"text": "Chama da Paz", "isCorrect": true},
+            {"text": "Fogo Ardente", "isCorrect": false},
+            {"text": "Luz no Caminho", "isCorrect": false},
+            {"text": "Facho de Esperança", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "26",
+        "opcoes": [
+            {"text": "Rock Olímpico", "isCorrect": false},
+            {"text": "Samba Olímpico", "isCorrect": false},
+            {"text": "Hino Olímpico", "isCorrect": true},
+            {"text": "Reggae Olímpico", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "27",
+        "opcoes": [
+            {"text": "friamente", "isCorrect": false},
+            {"text": "aparentemente", "isCorrect": false},
+            {"text": "lealmente", "isCorrect": true},
+            {"text": "tristemente", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "28",
+        "opcoes": [
+            {"text": "estranho", "isCorrect": false},
+            {"text": "verdadeiro", "isCorrect": true},
+            {"text": "baixo", "isCorrect": false},
+            {"text": "falso", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "29",
+        "opcoes": [
+            {"text": "sorte", "isCorrect": false},
+            {"text": "lazer", "isCorrect": false},
+            {"text": "fé", "isCorrect": true},
+            {"text": "honra", "isCorrect": false}
+        ]
+    },
+    {
+        "questao": "30",
+        "opcoes": [
+            {"text": "vergonha", "isCorrect": false},
+            {"text": "riqueza", "isCorrect": false},
+            {"text": "sabedoria", "isCorrect": true},
+            {"text": "glória", "isCorrect": false}
+        ]
+    }
+]
