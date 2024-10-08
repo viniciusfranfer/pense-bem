@@ -12,7 +12,7 @@ import Modal from './Modal';
         <h1 className='title '>OLIMPÍADAS</h1>
         <div className='logos'>
             <img className='tocha' src={tochaEsquerda} alt="Tocha Olímpica"></img>
-            <img src={arcos} alt="Arcos Olímpicos"></img> 
+            <img className='arco' src={arcos} alt="Arcos Olímpicos"></img> 
             <img className='tocha' src={tochaDireita} alt="Tocha Olímpica"></img>
         </div>
         <h2 className='subtitle'>PENSE BEM</h2>
