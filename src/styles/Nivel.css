@@ -229,3 +229,44 @@
       margin: 0 5px 0;
     }
   }
+  @media (max-width: 768px) {
+    .quiz-container {
+      width: 90vw;
+      padding: 10px;
+    }
+  
+    .quiz-header-question {
+      font-size: 20px;
+    }
+  
+    .quiz-header-points {
+      font-size: 18px;
+    }
+  
+    .quiz-question p {
+      font-size: 14px;
+    }
+  
+    .quiz-options {
+      grid-template-columns: 1fr;
+      gap: 5px;
+    }
+  
+    button.quiz-option {
+      font-size: 14px;
+      padding: 8px;
+    }
+  
+    .quiz-results {
+      font-size: 24px;
+    }
+  
+    .quiz-attempts {
+      font-size: 16px;
+    }
+  
+    .restart {
+      font-size: 1em;
+      padding: .3em 1.5em;
+    }
+  }
