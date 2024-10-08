@@ -37,3 +37,18 @@
   transform: scale(1.05);
   cursor: pointer;
 }
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 2em;
+  }
+  .levels {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .btn {
+    font-size: 2em;
+    padding: 0.8em 1.2em;
+  }
+}
