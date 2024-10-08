@@ -14,6 +14,8 @@ body{
   color: #ffffff;
 }
 
+
+
 .container{
   width: 100%;
   height: 100%;
@@ -42,4 +44,50 @@ body{
 
 .logos .tocha {
   width: 140px;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 2.5rem;
+    margin-bottom: 5%;
+  }
+
+  .subtitle {
+    font-size: 2rem;
+  }
+
+  .logos {
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+  }
+
+  .logos .tocha {
+    display: none;
+  }
+}
+
+@media (max-width: 425px) {
+  .title {
+    font-size: 1.8rem;
+    margin-bottom: 10%;
+  }
+
+  .subtitle {
+    font-size: 1.3rem;
+  }
+
+  .logos {
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+  }
+
+  .arco {
+    width: 300px;
+  }
+
+  .logos .tocha {
+    display: none;
+  }
 }
