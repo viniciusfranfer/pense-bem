@@ -34,3 +34,24 @@
     border-radius: 3px;
     font-size: 1em;
 }
+
+@media (max-width: 768px) {
+    .start .btn {
+        font-size: 1em;
+        padding: .2em 1.5em;
+    }
+
+    #form {
+        margin-top: 1em;
+    }
+
+    #form label {
+        font-size: 1.1em;
+    }
+
+    #form .userid {
+        font-size: 0.9em;
+        padding: .2em 0.8rem;
+        width: 80%;
+    }
+}
