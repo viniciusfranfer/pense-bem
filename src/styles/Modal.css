@@ -58,3 +58,68 @@ body.active-modal {
     right: 10px;
     padding: 5px 7px;
 }
+
+@media (max-width: 768px) {
+    .btn-modal {
+        font-size: 1.5em;
+        padding: .2em 1em;
+    }
+
+    .modal-content {
+        width: 80%;
+        max-width: none;
+        min-width: none;
+        padding: 20px;
+    }
+
+    .modal-content p {
+        font-size: 1em;
+    }
+
+    .close-modal {
+        padding: 3px 5px;
+    }
+}
+
+@media (max-width: 425px) {
+    .btn-modal {
+        font-size: 1.2em;
+        padding: .2em .8em;
+    }
+
+    .modal-content {
+        width: 80%;
+        min-width: 350px;
+        padding: 15px;
+    }
+
+    .modal-content p {
+        font-size: 0.9em;
+    }
+
+    .close-modal {
+        padding: 2px 4px;
+    }
+}
+
+@media (max-width: 375px) {
+    .btn-modal {
+        font-size: 1em;
+        padding: .2em .6em;
+    }
+
+    .modal-content {
+        width: 80%;
+        /* max-width: none; */
+        min-width: 250px;
+        padding: 15px;
+    }
+
+    .modal-content p {
+        font-size: 0.8em;
+    }
+
+    .close-modal {
+        padding: 1px 3px;
+    }
+}
